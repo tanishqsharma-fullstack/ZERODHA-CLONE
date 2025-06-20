@@ -1,3 +1,6 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
+# robots.txt updated for Git tracking test
+User-agent: *
+Allow: /
