@@ -7,15 +7,15 @@ import Universe from './Universe';
 import Navbar from '../Navbar';
 import Footer from '../Footer';
 
-function PricingPage() {
+function ProductsPage() {
     return ( 
         <>
-          <Navbar/>
+          
           <Hero/>
           <LeftSection/>
           <RightSection/>
           <Universe/>
-          <Footer/>
+          
         
         </>
 
@@ -23,4 +23,4 @@ function PricingPage() {
      );
 }
 
-export default ;
+export default  ProductsPage;
